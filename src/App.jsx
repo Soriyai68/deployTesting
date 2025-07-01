@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div className='text-9xl text-black justify-center flex items-center h-screen bg-gradient-to-r from-blue-500 to-purple-500'>
-        Sao Soriya's Developer Ghosa
+        Sao Soriya's Developer
       </div>
     </>
   )
